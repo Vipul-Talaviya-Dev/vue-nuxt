@@ -1,0 +1,16 @@
+[
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "/Users/VK/Desktop/vue-nuxt/vue-nuxt/pages/products.vue",
+    "chunkName": "pages/products",
+    "_name": "_b2209858"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/VK/Desktop/vue-nuxt/vue-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_77bbaf92"
+  }
+]

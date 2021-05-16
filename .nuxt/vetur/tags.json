@@ -1,0 +1,26 @@
+{
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Card": {
+    "description": "Auto imported from components/card.vue"
+  },
+  "Loader": {
+    "description": "Auto imported from components/loader.vue"
+  },
+  "NavigationBar": {
+    "description": "Auto imported from components/navigationBar.vue"
+  },
+  "Pagination": {
+    "description": "Auto imported from components/pagination.vue"
+  },
+  "ProductHeader": {
+    "description": "Auto imported from components/productHeader.vue"
+  },
+  "ProductList": {
+    "description": "Auto imported from components/productList.vue"
+  },
+  "Sequence": {
+    "description": "Auto imported from components/sequence.vue"
+  }
+}
